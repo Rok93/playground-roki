@@ -9,5 +9,4 @@ public class PlaygroundRokiApplication {
     public static void main(String[] args) {
         SpringApplication.run(PlaygroundRokiApplication.class, args);
     }
-
 }
